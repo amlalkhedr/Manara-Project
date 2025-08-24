@@ -20,7 +20,8 @@ Observability is achieved using **Amazon CloudWatch** for metrics and logs, and 
 
 ## 🏗️ Solution Architecture
 
-![Diagram drawio](https://github.com/user-attachments/assets/7872c418-f59a-4e15-9054-866e30f0f650)
+<img width="911" height="1121" alt="Project-Diagram" src="https://github.com/user-attachments/assets/ad1967b7-86ce-4f93-8ac7-e4996a9497ba" />
+
 
 
 
